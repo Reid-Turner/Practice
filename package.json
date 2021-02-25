@@ -1,0 +1,21 @@
+{
+        "name": "practice",
+        "version": "1.0.0",
+        "description": "",
+        "main": "index.js",
+        "scripts": {
+                "test": "echo \"Error: no test specified\" && exit 1"
+        },
+        "keywords": [],
+        "author": "Reid",
+        "license": "ISC",
+        "dependencies": {
+                "node-gyp": "0.8.0",
+                "nan": "2.14.2",
+                "node-sass": "5.0.0",
+                "uglify-js": "1.3.2",
+                "braces": "1.8.5",
+                "minimatch": "2.0.10",
+                "underscore.string": "2.1.1"
+        }
+}
